@@ -101,6 +101,10 @@ p {
   padding: 2% 10%;
 }
 
+.carousel-inner{
+  height: 500px;
+}
+
 .testimonial-image {
   width: 20%;
   border-radius: 100%;
